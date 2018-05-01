@@ -9,11 +9,13 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: '"post"'
 - name: current
   label: Current
   type: text
   hidden: false
   default: ''
+  description: '"post"'
 - name: cover
   label: Cover
   type: file
@@ -34,6 +36,7 @@ fields:
   type: datetime
   hidden: false
   default: ''
+  description: mm/dd/yyyy HH:mm:A +0800
 - name: tags
   label: Tags
   type: tag_list
@@ -44,6 +47,7 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: post-template
 - name: subclass
   label: Subclass
   type: text
