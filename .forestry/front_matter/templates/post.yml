@@ -25,7 +25,7 @@ fields:
   label: Navigation
   type: boolean
   hidden: false
-  default: ''
+  default: false
 - name: title
   label: Title
   type: text
