@@ -67,12 +67,12 @@ feed:
 safe: False
 lsi: False
 username: datcjordan
-repo: luluking
+repo: luluking.info
 branch: master
-relative_source: ../luluking/
+relative_source: ../luluking.info/
 destination: ../luluking-pages/
-production_url:  https://datcjordan.github.io/luluking/
-source_url:  https://github.com/datcjordan/luluking/
+production_url:  https://datcjordan.github.io/luluking.info/
+source_url:  https://github.com/datcjordan/luluking.info/
 
 exclude:
   - assets/css
