@@ -5,10 +5,10 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /
+baseurl: '/'
 
 # Website info
-title: Ghost
+title: 鲁鲁王
 description: 每日精神粮食
 cover: assets/images/boci2.jpg
 logo: assets/images/blog-icon.png
@@ -19,11 +19,11 @@ source_url: https://github.com/jekyller/jasper2/
 
 # Social info
 navigation: True # show the navbar links
-subscribers: True # you need to connect an external service for this to work,
+subscribers: False # you need to connect an external service for this to work,
 # if 'True' the submit button is disabled for now, but you can change that
 # by editing `_includes/subscribe-form.html`
 twitter: tryghost # replace by your username
-facebook: ghost # replace by your username
+facebook: luluking # replace by your username
 
 # Disqus
 disqus: False
